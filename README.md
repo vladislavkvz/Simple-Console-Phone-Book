@@ -5,6 +5,7 @@
 Files are saved in */ PhoneBook\bin\Debug /* 
 
 To play with app you need to hardcore the first user in the users.txt file which will be created when you try to run the app and write random username and password or just add users.txt in the DEBUG folder above.
+
 -TIP-
 To add user you need to enter in users.txt file ID, username, password, firstname, lastname and isAdmin on the separate lines !
 

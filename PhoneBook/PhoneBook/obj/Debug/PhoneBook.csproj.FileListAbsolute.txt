@@ -1,0 +1,27 @@
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+c:\users\vladislav kavazov\documents\visual studio 2015\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Vladislav Kavazov\Desktop\VLaDO\Exercises\C#\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Vladislav Kavazov\Desktop\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Vladislav Kavazov\Desktop\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Vladislav Kavazov\Desktop\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Vladislav Kavazov\Desktop\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Vladislav Kavazov\Desktop\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Vladislav Kavazov\Desktop\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\01. Mon 04\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\01. Mon 04\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
