@@ -15,4 +15,4 @@ To add user you need to enter in users.txt file ID, username, password, firstnam
 - Entities, Repositories, Views.
 - In the app the main logic is placed in the View
 - because we use the console if you want to se the
-- MVC models check the others projects.
+- MVC architecture check my others projects.
